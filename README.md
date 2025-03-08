@@ -27,23 +27,17 @@ Para jugar el juego, necesitas tener instalados los siguientes paquetes de Pytho
    ```
 Navega al directorio del proyecto:
 
-   ```bash
-Copiar
-Editar
+   ```bash Copiar Editar
 cd nombre_del_repositorio
    ```
 Instala pygame si aún no lo has hecho:
 
-```bash
-Copiar
-Editar
+```bash Copiar Editar
 pip install pygame
 ```
 Ejecuta el juego con:
 
-```bash
-Copiar
-Editar
+```bash Copiar Editar
 python plataformas.py
 ```
 
