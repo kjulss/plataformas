@@ -50,4 +50,5 @@ python plataformas.py
 - Reinicio automático si el jugador cae al suelo.
 
 📸 Capturas de pantalla
+
 ![image](https://github.com/user-attachments/assets/dc04b12c-1f8e-4a8f-9e22-bbf7682b18c8)
